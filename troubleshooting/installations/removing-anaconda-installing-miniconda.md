@@ -60,7 +60,7 @@ conda init bash
 ```bash
 # 4. Create environment
 conda create -y -n ironhack
-conda activate -y ironhack
+conda activate ironhack
 
 # 5. Install jupyter notebook
 conda install -y -c anaconda jupyter
