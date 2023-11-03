@@ -1,5 +1,7 @@
 # readme-sections
 
+These are just suggestions, you can tune it to your liking and the goals of your project.
+
 - **Introduction**: Introduction of your project. You can
 - **Dataset / Data source** - Source of your data. What data you are working with and the origin of your data (kaggle, webscraping, etc.)
 - **Workflow/Methodology** - Methodology, steps followed to achieve the project, libraries used, etc.
