@@ -125,7 +125,7 @@ Later on, someone will:
 conda env create --file project_1.yml
 ```
 
-**CHECKLIST**
+# CHECKLIST
 
 1. You created a repo on your account ✅
 2. You created the discussed structure ✅
@@ -136,7 +136,7 @@ conda env create --file project_1.yml
 5. You pushed at least once ✅
 6. You copy the link of your own project ✅ into an issue on our project repo. Go to our repo: New Issue > paste the link to your project
 
-#### Caveats
+**Caveats**
 
 - Git will not push those directories that are empty, so it's not until you add things to `images/` and `data/` folders that they will be pushed to github.
 - Commit frequently and with meaningful messages.
