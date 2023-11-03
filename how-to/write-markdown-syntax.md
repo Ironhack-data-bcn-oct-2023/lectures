@@ -23,13 +23,11 @@ Headers are used to create titles and headings in your document. Markdown suppor
 ## Emphasis
 You can emphasize text using asterisks \* or underscores \_.
 
-```markdown
 Italic: _Italic_ or _Italic_
 Bold: **Bold** or **Bold**
 Bold Italic: **_Bold Italic_** or **_Bold Italic_**
-```
 
-```bash
+```
 Italic: *Italic* or _Italic_
 Bold: **Bold** or __Bold__
 Bold Italic: ***Bold Italic*** or ___Bold Italic___
