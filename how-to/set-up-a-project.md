@@ -1,6 +1,6 @@
 # set-up-a-project
 
-##### Checklist
+## Checklist
 
 1. Create a github repository in your own account. You don't need to fork anyone else's, just create one for yourself.
 2. Give it whatever name you deem necessary. Just keep in mind that if you change the name of the project later on, it'll be changed also in the link _(that may also affect your local repo)_.
